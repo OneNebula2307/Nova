@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "oyvey",
   "version": "${version}",
-  "name": "oyvey-ported",
-  "description": "free and opensource client base",
+  "name": "Nova",
+  "description": "client Nova",
   "authors": [
     "3arthqu4ke",
     "alpha432",
